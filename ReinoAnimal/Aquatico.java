@@ -1,7 +1,7 @@
 package ReinoAnimal;
 
 /**
- * Esta classe representa um animal aquático
+ * Esta classe representa um animal Aquático
  * 
  * @author Gabriel Richard Morais de Lima
  *
@@ -42,6 +42,12 @@ public class Aquatico extends Animal {
 	}
 
 	public void comer() {
+
+		/**
+		 * Informa que o animal está comendo
+		 * 
+		 * @since 06/11/2023
+		 */
 
 		System.out.println("O animal aquatico está comendo...");
 	}
