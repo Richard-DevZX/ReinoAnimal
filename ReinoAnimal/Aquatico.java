@@ -1,7 +1,7 @@
 package ReinoAnimal;
 
 /**
- * Esta classe representa um animal Aquático
+ * Esta classe representa um animal Aquatico
  * 
  * @author Gabriel Richard Morais de Lima
  *
